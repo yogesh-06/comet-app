@@ -1,3 +1,10 @@
+To run this project, 
+1. you need to download a project zip from given files.
+2. then install necessary dependencies using 'yarn' or 'npm i'.
+3. if dependencies are installed succefully then start project with 'yarn start' or 'npm start'.
+4. this project is created using Expo-cli, so 'yarn start' will display a QR code you need to scan it in your phone by expo app.(available on Playstore).
+5. or you can just press 'a' to run in android studio's simulator.
+
 # comet-app
 An assignment for recruiter completed with basic React-native e-comerce fetchers.
 
